@@ -12,7 +12,7 @@ react-bootstrap template with code examples.
 
 + In console window type `chdir react` 
 + Run `npm start`
-+ Access the running app in a browser at http://localhost:xxxx
++ Access the running app in a browser at `localhost:xxxx`
 + Run `yarn build` to create production version
 
 ## Demo
