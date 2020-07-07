@@ -1,6 +1,6 @@
 # react
 
-React template and code examples
+react-bootstrap template with code examples.
 
 ## Installation:
 
@@ -12,4 +12,8 @@ React template and code examples
 
 + In console window type `chdir react` 
 + Run `npm start`
-+ Access the running app in a browser at <http://localhost:xxxx>
++ Access the running app in a browser at http://localhost:xxxx
+
+## Usage:
+
+View demo at http://react.ianharvey.ca/
