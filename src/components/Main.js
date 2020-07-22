@@ -55,7 +55,7 @@ const Main = () => {
       <Slider />
       <Container className="mt-5">
         <h1>Home</h1>
-        <p>Welcome, {name}! This demo site is built with Node.js, Cloudant, <a href="https://react-bootstrap.github.io/" target="_blank" rel="noopener noreferrer">react-bootstrap</a>, and uses <a href="https://www.npmjs.com/package/react-router-dom" target="_blank" rel="noopener noreferrer">React Router</a>.</p>
+        <p>Welcome, {name}! This demo site is built with Node.js, IBM Cloudant, <a href="https://react-bootstrap.github.io/" target="_blank" rel="noopener noreferrer">react-bootstrap</a>, and uses <a href="https://www.npmjs.com/package/react-router-dom" target="_blank" rel="noopener noreferrer">React Router</a>.</p>
         <p className="mb-4"><code>Example of rendering a Table component:</code></p>
 
         <Table tableHeadings={tableHeadings} tableData={tableData} />

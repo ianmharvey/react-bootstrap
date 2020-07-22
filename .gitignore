@@ -2,5 +2,6 @@ node_modules/
 build/
 api.js
 mysql.js
+routes.js
 package-lock.json
 yarn.lock

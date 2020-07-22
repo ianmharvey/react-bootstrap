@@ -13,7 +13,6 @@ const Page3 = () => {
     "Consultant"
   ]
 
-
   const tableData = [
     {
       name: 'Xi Zheng',
