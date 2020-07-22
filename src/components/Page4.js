@@ -11,7 +11,7 @@ const Page4 = () => {
     <Container className="mt-5">
       <h1>Page 4</h1>
       <p>This is a page.</p>
-      <p className="mb-4"><code>A simple template page. Customize using Bootstrap's grid system and components...</code></p>
+      <div className="code">A simple template page. Customize using Bootstrap's grid system and components...</div>
       <Row>
         <Col className="border mb-5">
           <p>

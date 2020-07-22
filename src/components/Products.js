@@ -8,7 +8,7 @@ const Products = () => {
   return (
     <Container className="mt-5">
       <h1>Products</h1>
-      <p className="mb-4"><code>Example of a fetch request component to get data from an IBM Cloudant database...</code></p>
+      <div className="code">Example of a fetch request component to get data from an IBM Cloudant database...</div>
       <Fetch />
     </Container>
   );

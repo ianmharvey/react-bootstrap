@@ -55,7 +55,7 @@ const Page3 = () => {
     <Container className="mt-5">
       <h1>Page 3</h1>
       <p>This is a page.</p>
-      <p className="mb-4"><code>Another table example using the Table component with a different data set...</code></p>
+      <div className="code">Another table example using the Table component with a different data set...</div>
       <Table tableHeadings={tableHeadings} tableData={tableData} />
     </Container>
   );

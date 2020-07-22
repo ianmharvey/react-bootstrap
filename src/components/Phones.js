@@ -23,6 +23,7 @@ class Phones extends React.Component {
     Ex: fetch("/data/data.json")
     Ex: fetch("http://localhost:3000/data/data.json")
     */
+
     const requestURL = new Request("https://3ba80cff-5997-4a6f-83c2-d0453acd7c78-bluemix.cloudantnosqldb.appdomain.cloud/development/_all_docs?include_docs=true", {
       method: 'GET'
     });
@@ -76,11 +77,11 @@ class Phones extends React.Component {
       return (
         <Container className="mt-5">
           <h1>Phones</h1>
-          <p className="mb-4"><code>This page uses a direct fetch request to get data from a Cloudant database...</code></p>
+          <div className="code">This page uses a direct fetch request to get data from an IBM Cloudant database...</div>
 
           <CardColumns>
-            {items.map(item => (
-              <Card style={{ width: "auto" }} key={item.key}>
+            {items.map((item, index) => (
+              <Card style={{ width: "auto" }} key={item.key} id={index}>
                 <Card.Img variant="top" src="https://via.placeholder.com/180x80.png/aaa/fff?text=image" alt={item.doc.manufacturer} />
                 <Card.Body>
                   <Card.Title>{item.doc.manufacturer} {item.doc.product}</Card.Title>
