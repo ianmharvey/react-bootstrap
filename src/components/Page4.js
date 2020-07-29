@@ -13,7 +13,7 @@ const Page4 = () => {
       <p>This is a page.</p>
       <div className="code">A simple template page. Customize using Bootstrap's grid system and components...</div>
       <Row>
-        <Col className="border mb-5">
+        <Col className="mb-5">
           <p>
           <OverlayTrigger
             key="top"
@@ -28,10 +28,7 @@ const Page4 = () => {
           </OverlayTrigger>
           dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </Col>
-        <Col className="border mb-5">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </Col>
-        <Col className="border mb-5">
+        <Col className="mb-5">
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </Col>
       </Row>

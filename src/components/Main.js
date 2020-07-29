@@ -62,9 +62,8 @@ const Main = () => {
 
         <h2>Rows / Cols</h2>
         <Row>
-          <Col className="border mb-5">1 of 3</Col>
-          <Col className="border mb-5">2 of 3</Col>
-          <Col className="border mb-5">3 of 3</Col>
+          <Col className="mb-5">1 of 2</Col>
+          <Col className="mb-5">2 of 2</Col>
         </Row>
       </Container>
     </>

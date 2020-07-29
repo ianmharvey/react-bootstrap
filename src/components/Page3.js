@@ -8,7 +8,6 @@ const Page3 = () => {
   const tableHeadings = [
     "Name",
     "Location",
-    "Department",
     "Employee",
     "Consultant"
   ]
@@ -17,35 +16,30 @@ const Page3 = () => {
     {
       name: 'Xi Zheng',
       location: 'Belgium',
-      department: 'HR',
       employee: 'Y',
       consultant: ''
     },
     {
       name: 'Jane O\'Neill',
       location: 'Ireland',
-      department: 'Sales',
       employee: '',
       consultant: 'Y'
     },
     {
       name: 'Jerry Moses',
       location: 'UK',
-      department: 'Sales',
       employee: '',
       consultant: 'Y'
     },
     {
       name: 'Pat Johnson',
       location: 'Belgium',
-      department: 'Technical Services',
       employee: 'Y',
       consultant: ''
     },
     {
       name: 'Mary Yazdi',
       location: 'Belgium',
-      department: 'Technical Services',
       employee: 'Y',
       consultant: ''
     },

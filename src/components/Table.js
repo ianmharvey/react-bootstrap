@@ -51,7 +51,7 @@ class Table extends React.Component {
     const { tableHeadings } = this.props;
 
     return (
-      <table className="table-bordered table-hover mb-5">
+      <table className="table table-sm table-bordered table-hover mb-5">
         <TableHeader tableHeadings={tableHeadings} />
         <TableBody tableData={tableData} />
       </table>
