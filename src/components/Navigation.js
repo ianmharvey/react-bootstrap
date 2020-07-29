@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 
 import { FaReact, FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
@@ -8,11 +8,14 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 
 const Navigation = () => {
+  // hook
+  const [expanded, setExpanded] = useState(false);
+
   return (
-    <Navbar bg="dark" variant="dark" expand="lg" fixed="top">
+    <Navbar bg="dark" variant="dark" expand="lg" fixed="top" expanded={expanded}>
       <Container>
         <Navbar.Brand href="/"><FaReact /></Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(expanded ? false : "expanded")} />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
             <NavLink to="/products" className="nav-link">Products</NavLink>
