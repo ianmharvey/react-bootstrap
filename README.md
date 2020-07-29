@@ -1,6 +1,6 @@
 # react
 
-react-bootstrap template with code examples.
+react-bootstrap with code examples.
 
 ## Installation
 
