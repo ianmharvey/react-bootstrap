@@ -1,10 +1,10 @@
-# react
+# react-bootstrap
 
 react-bootstrap with code examples.
 
 ## Installation
 
-+ git clone https://github.com/ianmharvey/react.git
++ git clone https://github.com/ianmharvey/react-bootstrap.git
 + chdir into this project's root directory `chdir react`
 + Run `npm install react-bootstrap bootstrap` to install the app's dependencies
 
