@@ -21,4 +21,4 @@ The .htaccess file in the `/public` directory prevents users from getting a 404 
 
 ## Demo
 
-View demo at http://react.ianharvey.ca/
+View demo at https://react.ianharvey.ca/
