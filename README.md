@@ -4,7 +4,7 @@ A template built with react-bootstrap.
 
 ## Installation
 
-+ git clone https://github.com/ianmharvey/react-bootstrap-template.git
++ git clone https://github.com/ianmharvey/react-bootstrap.git
 + chdir into this project's root directory `chdir react-bootstrap`
 + Run `npm install --save` to install the app's dependencies
 
