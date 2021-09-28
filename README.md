@@ -10,7 +10,7 @@ A template built with react-bootstrap.
 
 ## Usage
 
-+ In console window type `chdir react-bootstrap` 
++ In a console window type `chdir react-bootstrap` 
 + Run `npm start`
 + Access the running app in a browser at `localhost:xxxx`
 + Run `yarn build` to build production version. If `yarn` is not installed then run the following command `npm install --global yarn`.
