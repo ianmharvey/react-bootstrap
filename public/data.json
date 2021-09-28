@@ -1,0 +1,102 @@
+﻿{
+  "total_rows": 6,
+  "offset": 0,
+  "rows": [
+    {
+      "id": "2d74d081422c081f05415fa52cdc4afb",
+      "key": "2d74d081422c081f05415fa52cdc4afb",
+      "value": {
+        "rev": "2-24c7f988bc2ad2e94fe8137c7de8df09"
+      },
+      "doc": {
+        "_id": "2d74d081422c081f05415fa52cdc4afb",
+        "_rev": "2-24c7f988bc2ad2e94fe8137c7de8df09",
+        "manufacturer": "Apple",
+        "product": "iPhone 11 Pro",
+        "description": "A transformative triple‑camera system that adds tons of capability without complexity. An unprecedented leap in battery life. And a mind‑blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro.",
+        "image": "/images/iphone11pro.jpg",
+        "price": "1000"
+      }
+    },
+    {
+      "id": "4825086c29cf9bfaf90dbbed570e9da6",
+      "key": "4825086c29cf9bfaf90dbbed570e9da6",
+      "value": {
+        "rev": "1-9e722ea804299450df58a6b7622c53e3"
+      },
+      "doc": {
+        "_id": "4825086c29cf9bfaf90dbbed570e9da6",
+        "_rev": "1-9e722ea804299450df58a6b7622c53e3",
+        "manufacturer": "Apple",
+        "product": "iPhone X",
+        "description": "A gorgeous all-glass design with a beautiful 5.8-inch Super Retina display, A11 Bionic chip, wireless charging and an improved rear camera with dual optical image stabilization.",
+        "image": "/images/iphone11x.jpg",
+        "price": "800"
+      }
+    },
+    {
+      "id": "4cd1a4b3002d3d07ded3ce471e17439d",
+      "key": "4cd1a4b3002d3d07ded3ce471e17439d",
+      "value": {
+        "rev": "2-d9e16cb7c7e6c1f4ba5206a5c1cf5c1f"
+      },
+      "doc": {
+        "_id": "4cd1a4b3002d3d07ded3ce471e17439d",
+        "_rev": "2-d9e16cb7c7e6c1f4ba5206a5c1cf5c1f",
+        "manufacturer": "Apple",
+        "product": "iPhone 11",
+        "description": "A new dual‑camera system captures more of what you see and love. The fastest chip ever in a smartphone and all‑day battery life let you do more and charge less. And the highest‑quality video in a smartphone, so your memories look better than ever.",
+        "image": "/images/iphone11.jpg",
+        "price": "1000"
+      }
+    },
+    {
+      "id": "7a395460f4b049774f3dc7d5531081bd",
+      "key": "7a395460f4b049774f3dc7d5531081bd",
+      "value": {
+        "rev": "1-3905fba654cc6ac0fb83b7b680732f45"
+      },
+      "doc": {
+        "_id": "7a395460f4b049774f3dc7d5531081bd",
+        "_rev": "1-3905fba654cc6ac0fb83b7b680732f45",
+        "manufacturer": "Samsung",
+        "product": "Galaxy Fold",
+        "description": "A device like no other. Galaxy Fold doesn't just define a new category, it defies category. Today, the future unfolds with Galaxy Fold.",
+        "image": "/images/samsunggalaxyfold.jpg",
+        "price": "2600"
+      }
+    },
+    {
+      "id": "7a395460f4b049774f3dc7d55310aa76",
+      "key": "7a395460f4b049774f3dc7d55310aa76",
+      "value": {
+        "rev": "1-06e383e86d81dceefb3061bd1d7669fe"
+      },
+      "doc": {
+        "_id": "7a395460f4b049774f3dc7d55310aa76",
+        "_rev": "1-06e383e86d81dceefb3061bd1d7669fe",
+        "manufacturer": "Samsung",
+        "product": "Galaxy Z Flip",
+        "description": "Introducing Galaxy Z Flip. A whole new kind of foldable phone with the first folding glass screen and advanced freestop hinge.",
+        "image": "/images/samsunggalaxyzflip.jpg",
+        "price": "1820"
+      }
+    },
+    {
+      "id": "fc9e6eb1c84e9acf0bde16b4854f248f",
+      "key": "fc9e6eb1c84e9acf0bde16b4854f248f",
+      "value": {
+        "rev": "1-5361c73a5d37852f94a9f88781c97599"
+      },
+      "doc": {
+        "_id": "fc9e6eb1c84e9acf0bde16b4854f248f",
+        "_rev": "1-5361c73a5d37852f94a9f88781c97599",
+        "manufacturer": "Samsung",
+        "product": "Galaxy S10",
+        "description": "The result of 10 years of pioneering mobile firsts, Galaxy S10e, S10 and S10+ introduce the next generation of mobile innovation.",
+        "image": "/images/samsunggalaxys10.jpg",
+        "price": "980"
+      }
+    }
+  ]
+}

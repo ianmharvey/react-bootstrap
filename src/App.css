@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
+
+body {
+  font-family: Lato, sans-serif;
+  line-height: 1.6;
+  background-color: #fff;
+}
+
+.container {
+	max-width: 71.25rem; /* Set to 1140px (71.25rem); Bootstrap 5 default is 1320px (82.5rem) */
+}
+
+main {
+  margin: 6rem 0 2.5rem 0;
+  height: 100% !important;
+}
+
+h1 {
+  padding: 0 0 1rem 0;
+}
+
+h2, h3, h4, h5, h6 {
+  padding: 1.5rem 0 1rem 0;
+}
+
+footer {
+  color: #fff;
+  background-color: #333;
+  padding: 2rem 0;
+  font-size: .9rem;
+  text-align: center;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #fff;
+}
+
+blockquote {
+	padding: 0 2rem 0 2rem;
+}
+
+.d-sm-none {
+	display: none !important;
+}
+
+@media (min-width: 768px) {
+	.d-md-block {
+		display: block !important;
+	}
+}
