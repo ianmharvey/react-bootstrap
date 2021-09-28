@@ -1,6 +1,6 @@
 # Template with react-bootstrap
 
-A basic react-bootstrap template.
+A template built with react-bootstrap.
 
 ## Installation
 
