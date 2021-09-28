@@ -13,7 +13,8 @@ A template built with react-bootstrap.
 + In console window type `chdir react-bootstrap` 
 + Run `npm start`
 + Access the running app in a browser at `localhost:xxxx`
-+ Run `yarn build` to create production version
++ Run `yarn build` to build production version. If `yarn` is not installed then run the following command `npm install --global yarn`.
++ Once the `build` process has completed you can view it locally with the following command `serve -s build`. If this step has not been done before then you may need to run this once `npm install -g serve`.
 
 ## Using .htacess
 
